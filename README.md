@@ -1,4 +1,4 @@
-# Turkish E-commerce Sentiment Analysis
+# Turkish E-commerce Sentiment Analysis / Türkçe E-ticaret Duygu Analizi
 
 ## 📖 Project Description / Proje Açıklaması
 🇹🇷 Bu proje, Türkçe e-ticaret ürün yorumlarını kullanarak duygu analizi yapmayı amaçlamaktadır. Kullanıcı yorumları 1 ile 5 arasında puanlanmıştır ve bu puanlara göre yorumlar Negatif, Nötr ve Pozitif olarak sınıflandırılmıştır.
