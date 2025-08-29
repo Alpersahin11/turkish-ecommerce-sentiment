@@ -42,12 +42,15 @@
 ## 🚀 Usage / Kullanım
 
 🇹🇷 Gerekli Python paketlerini yüklemek için:
+
 🇬🇧 Install the required Python packages:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 🇹🇷 Eğitim ve tahmin işlemleri için turkish_reviews_nlp.py dosyasını kullanabilirsiniz.
+
 🇬🇧 Use the turkish_reviews_nlp.py file for both training and prediction.
 
 
